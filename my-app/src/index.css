@@ -50,3 +50,7 @@ button:hover{
   background-color:limegreen;
   outline:none;
 }
+
+.addForm{
+  width:100%;
+}
